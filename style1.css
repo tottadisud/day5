@@ -1,0 +1,11 @@
+.parent{
+    border: 1px solid #ddd;
+    margin: 1%;
+
+}
+.chid{
+    position: relative;
+    width: 20%;
+    border: 1px solid #ddd;
+    margin: 1%;
+}
